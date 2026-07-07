@@ -35,3 +35,7 @@ Gemini returns the picture with the horse added, keeping the rest of the scene i
 ![](screenshots/gemini-horse-result.png)
 
 That's it — the final image is ready to use.
+
+## Task 3: Graph Bot Map
+
+![](graph.svg)
